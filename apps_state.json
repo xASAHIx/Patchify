@@ -264,7 +264,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.10"
+                "version": "1.48.0-dev.12"
             }
         ],
         "applied": [
@@ -307,6 +307,7 @@
             "Enable debugging",
             "Exit fullscreen mode",
             "Feed card layout",
+            "Feed video actions",
             "Force fullscreen landscape",
             "Force original audio",
             "Fullscreen video scale",
@@ -441,7 +442,7 @@
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.10"
+                "version": "1.48.0-dev.12"
             }
         ],
         "applied": [
@@ -471,6 +472,7 @@
             "Media viewer fade",
             "Open links directly",
             "Open links externally",
+            "Redgifs audio",
             "Remember collapsed comments",
             "Remove ads and telemetry",
             "Remove subreddit dialog",

@@ -357,9 +357,9 @@
 
 * **App Version:** `2026.41.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.10`
+* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.12`
 
-* **Applied Patches (33):**
+* **Applied Patches (34):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Copy text`
@@ -386,6 +386,7 @@
   * `Media viewer fade`
   * `Open links directly`
   * `Open links externally`
+  * `Redgifs audio`
   * `Remember collapsed comments`
   * `Remove ads and telemetry`
   * `Remove subreddit dialog`
@@ -547,9 +548,9 @@
 
 * **App Version:** `21.42.241`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.48.0-dev.10`
+* **Patches Version:** `1.48.0-dev.12`
 
-* **Applied Patches (98):**
+* **Applied Patches (99):**
   * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
@@ -589,6 +590,7 @@
   * `Enable debugging`
   * `Exit fullscreen mode`
   * `Feed card layout`
+  * `Feed video actions`
   * `Force fullscreen landscape`
   * `Force original audio`
   * `Fullscreen video scale`

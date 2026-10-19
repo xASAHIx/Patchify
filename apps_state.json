@@ -264,7 +264,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.12"
+                "version": "1.48.0-dev.13"
             }
         ],
         "applied": [
@@ -308,6 +308,8 @@
             "Exit fullscreen mode",
             "Feed card layout",
             "Feed video actions",
+            "Feed view count",
+            "Force animations",
             "Force fullscreen landscape",
             "Force original audio",
             "Fullscreen video scale",
@@ -438,11 +440,11 @@
         "bundles": [
             {
                 "repo": "jkennethcarino/adobo",
-                "version": "1.6.0-dev.5"
+                "version": "1.6.0"
             },
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.12"
+                "version": "1.48.0-dev.13"
             }
         ],
         "applied": [
@@ -456,6 +458,7 @@
             "Disable modern home",
             "Disable post detail swipe",
             "Disable screenshot popup",
+            "Download location",
             "Feed media max height",
             "Force system font",
             "Full width feed media",
@@ -612,7 +615,10 @@
             "Long-press download",
             "Fix push notifications",
             "AMOLED black",
-            "Hide closeup buttons"
+            "Hide closeup buttons",
+            "Filter feed",
+            "Keep Home feed",
+            "Show posted date"
         ],
         "excluded": []
     },
@@ -864,7 +870,10 @@
             "Hide AI-labeled reels",
             "Show a reel's exact time",
             "Tap a feed video to pause it",
-            "Hide reels by caption words"
+            "Hide reels by caption words",
+            "Hide Follow on feed posts",
+            "Hide Follow on stories",
+            "Hide the comment emoji row"
         ],
         "excluded": []
     }

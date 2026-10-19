@@ -176,7 +176,7 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (105):**
+* **Applied Patches (108):**
   * `Accent color`
   * `Allow screenshots`
   * `Ask before a call`
@@ -207,6 +207,8 @@
   * `Glass tab bar`
   * `Group Instagram's notifications`
   * `Hide AI-labeled reels`
+  * `Hide Follow on feed posts`
+  * `Hide Follow on stories`
   * `Hide Instants`
   * `Hide Meta AI`
   * `Hide Notes on profile pictures`
@@ -228,6 +230,7 @@
   * `Hide the Repost button`
   * `Hide the Share button`
   * `Hide the Threads button`
+  * `Hide the comment emoji row`
   * `Hide the home feed`
   * `Hide the notes row`
   * `Hide your active status`
@@ -293,7 +296,7 @@
 * **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
 * **Patches Version:** `1.10.0, 1.43.0`
 
-* **Applied Patches (54):**
+* **Applied Patches (57):**
   * `AMOLED black`
   * `Copy direct link`
   * `Disable AppsFlyer tracking`
@@ -309,6 +312,7 @@
   * `Download pin from long press`
   * `Download pins`
   * `Download video`
+  * `Filter feed`
   * `Filter pin menu`
   * `Fix push notifications`
   * `Hide AI-labeled pins`
@@ -330,6 +334,7 @@
   * `Hide survey prompts`
   * `Hide topic suggestions`
   * `HushPinterest settings`
+  * `Keep Home feed`
   * `Long-press download`
   * `Morphe runtime names`
   * `Morphe settings entry`
@@ -345,6 +350,7 @@
   * `Sanitize copied links`
   * `Sanitize shared links`
   * `Set pin as wallpaper`
+  * `Show posted date`
   * `Strip link tracking`
   * `System share sheet`
   * `Use the system share sheet`
@@ -357,9 +363,9 @@
 
 * **App Version:** `2026.41.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0-dev.5, 1.48.0-dev.12`
+* **Patches Version:** `1.6.0, 1.48.0-dev.13`
 
-* **Applied Patches (34):**
+* **Applied Patches (35):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Copy text`
@@ -370,6 +376,7 @@
   * `Disable modern home`
   * `Disable post detail swipe`
   * `Disable screenshot popup`
+  * `Download location`
   * `Feed media max height`
   * `Force system font`
   * `Full width feed media`
@@ -548,9 +555,9 @@
 
 * **App Version:** `21.42.241`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.48.0-dev.12`
+* **Patches Version:** `1.48.0-dev.13`
 
-* **Applied Patches (99):**
+* **Applied Patches (101):**
   * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
@@ -591,6 +598,8 @@
   * `Exit fullscreen mode`
   * `Feed card layout`
   * `Feed video actions`
+  * `Feed view count`
+  * `Force animations`
   * `Force fullscreen landscape`
   * `Force original audio`
   * `Fullscreen video scale`

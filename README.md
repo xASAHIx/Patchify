@@ -363,7 +363,7 @@
 
 * **App Version:** `2026.41.0`
 * **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0, 1.48.0-dev.13`
+* **Patches Version:** `1.6.0, 1.48.0-dev.15`
 
 * **Applied Patches (35):**
   * `App icon`
@@ -555,7 +555,7 @@
 
 * **App Version:** `21.42.241`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.48.0-dev.13`
+* **Patches Version:** `1.48.0-dev.15`
 
 * **Applied Patches (101):**
   * `AI channel filter`

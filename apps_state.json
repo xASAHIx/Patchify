@@ -264,7 +264,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.15"
+                "version": "1.48.0-dev.18"
             }
         ],
         "applied": [
@@ -439,12 +439,12 @@
         "version": "2026.41.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.6.0"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.48.0-dev.18"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.15"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.6.0"
             }
         ],
         "applied": [
@@ -873,7 +873,13 @@
             "Hide reels by caption words",
             "Hide Follow on feed posts",
             "Hide Follow on stories",
-            "Hide the comment emoji row"
+            "Hide the comment emoji row",
+            "Hide profile tabs",
+            "Hide the search bar in Messages",
+            "Message box buttons",
+            "Open comments without the keyboard",
+            "Show all recent searches",
+            "Stop swipe up to reply"
         ],
         "excluded": []
     }

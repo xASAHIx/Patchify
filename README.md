@@ -176,7 +176,7 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (108):**
+* **Applied Patches (114):**
   * `Accent color`
   * `Allow screenshots`
   * `Ask before a call`
@@ -218,6 +218,7 @@
   * `Hide group buttons on the share sheet`
   * `Hide highlights`
   * `Hide paid partnership Reels`
+  * `Hide profile tabs`
   * `Hide reels by caption words`
   * `Hide suggested accounts in DMs`
   * `Hide suggested accounts in Reels`
@@ -233,6 +234,7 @@
   * `Hide the comment emoji row`
   * `Hide the home feed`
   * `Hide the notes row`
+  * `Hide the search bar in Messages`
   * `Hide your active status`
   * `HushGram launch screen`
   * `HushGram settings`
@@ -244,6 +246,8 @@
   * `Lock your messages`
   * `Long press to zoom`
   * `Loop a story`
+  * `Message box buttons`
+  * `Open comments without the keyboard`
   * `Open developer options`
   * `Open links in external browser`
   * `Profile posts as a list`
@@ -263,6 +267,7 @@
   * `Show a post's exact time`
   * `Show a reel's exact time`
   * `Show a story's exact time`
+  * `Show all recent searches`
   * `Show hidden like counts`
   * `Show if a profile follows you`
   * `Show when someone was last active`
@@ -275,6 +280,7 @@
   * `Stop Story auto-advance`
   * `Stop background wake-ups`
   * `Stop swipe to create`
+  * `Stop swipe up to reply`
   * `Stop swiping between tabs`
   * `Story ring size`
   * `Tap a feed video to pause it`
@@ -362,8 +368,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/imPratyoosh/Auto-Morphe-Builder/releases?q=reddit)
 
 * **App Version:** `2026.41.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.6.0, 1.48.0-dev.15`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `1.48.0-dev.18, 1.6.0`
 
 * **Applied Patches (35):**
   * `App icon`
@@ -555,7 +561,7 @@
 
 * **App Version:** `21.42.241`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.48.0-dev.15`
+* **Patches Version:** `1.48.0-dev.18`
 
 * **Applied Patches (101):**
   * `AI channel filter`

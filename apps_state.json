@@ -264,7 +264,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.18"
+                "version": "1.48.0"
             }
         ],
         "applied": [
@@ -272,6 +272,7 @@
             "Add to queue",
             "Ambient mode",
             "App refresh rate",
+            "Ask flyout menu",
             "Bypass image region restrictions",
             "Bypass link redirects",
             "Captions",
@@ -357,6 +358,7 @@
             "Series tracking",
             "Settings menu filter",
             "Shorts autoplay",
+            "Skip live Shorts",
             "Skip silence",
             "SponsorBlock",
             "Spoof app version",
@@ -364,6 +366,7 @@
             "Spoof video streams",
             "Swipe controls",
             "Theme",
+            "Video delay",
             "Video quality",
             "Voice over translation",
             "Wide search bar",
@@ -375,11 +378,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.40.51",
+        "version": "9.42.52",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.47.0"
+                "version": "1.48.0"
             }
         ],
         "applied": [
@@ -391,6 +394,7 @@
             "Check watch history domain name resolution",
             "Crossfade",
             "Custom branding",
+            "Custom font",
             "Disable DRC audio",
             "Disable QUIC protocol",
             "Disable dislike redirection",
@@ -436,11 +440,11 @@
         ]
     },
     "Reddit": {
-        "version": "2026.41.0",
+        "version": "2026.42.0",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0-dev.18"
+                "version": "1.48.0"
             },
             {
                 "repo": "jkennethcarino/adobo",

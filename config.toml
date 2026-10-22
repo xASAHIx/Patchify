@@ -33,7 +33,7 @@ version = "exp"
 patcher-args = "-e 'Custom branding' -OcustomName='YouTube' -OappIcon='original'"
 
 [YouTube.patches]
-"github:MorpheApp/morphe-patches" = { version = "dev", exclude = ["Disable play store updates"] }
+"github:MorpheApp/morphe-patches" = { version = "latest", exclude = ["Disable play store updates"] }
 
 [YouTube-Music]
 enabled = true
@@ -50,12 +50,12 @@ patcher-args = "-e 'Custom branding' -OcustomName='YouTube Music' -OappIcon='ori
 enabled = true
 brand = "Morphe"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit"
-version = "2026.41.0"
+version = "2026.42.0"
 changelog-keywords = ["Reddit"]
 patcher-args = "-e 'Colorize comment indent lines' -OindentLineColors1='#0066FF' -OindentLineColors2='#FF2E88' -OindentLineColors3='#9B5CFF' -OindentLineColors4='#2DE2E6' -OindentLineColors5='#FF5FA2' -OindentLineColors6='#FF8A3D' -OindentLineColors7='#FFD166' -OindentLineColors8='#3CFF7F' -OisCurrentLevelOnly=true"
 
 [Reddit.patches]
-"github:MorpheApp/morphe-patches" = { version = "dev" }
+"github:MorpheApp/morphe-patches" = { version = "latest" }
 "github:jkennethcarino/adobo" = { version = "dev", include = ["Disable home feed auto-refresh", "Disable post detail swipe"], exclude = ["Hide post view counts", "Disable screenshot banner", "Open external links directly", "Sanitize share links"] }
 
 [Twitter]

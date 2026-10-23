@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=28&duration=2500&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Patchify;Ads+Belong+in+Museums.;Because+Apps+Deserve+Better.;Less+Waiting.+More+Doing.;Turning+Good+Apps+into+Great+Apps.;Less+Clutter.+More+Features.;Goodbye+Ads.+Hello+Experience.;Ads%3F+We+Don't+Know+Them." />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=180&section=header&text=ASAHI%20%7C%20%E6%9C%9D%E6%97%A5%20%7C%20Patchify&fontSize=50&fontColor=00F0FF&fontAlignY=45&animation=fadeIn" width="100%" alt="Header" />
 
 ## ☞ About
 * **Welcome to the **Patchify**. This repository provides ready-to-install, pre-patched Android applications using [Morphe](https://morphe.software/). All APKs are automatically downloaded, patched, released and kept up-to-date via GitHub Actions to ensure a seamless experience.**
@@ -41,6 +39,7 @@ B6:D4:EF:D1:53:65:4A:7B:43:61:43:66:06:22:D2:FB:63:B0:4E:20:90:6C:FE:41:54:AA:60
 ## 👀 Repository Scope & Support
 
 * This repository does not host every application that can be patched using Morphe. It only includes the apps that I personally use.
-* If you encounter any bugs or issues, you can [open an issue](https://github.com/the-asahi/Patchify/issues).
+* If you encounter any bugs or issues, you can [open an issue](https://github.com/xASAHIx/Patchify/issues).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" alt="Bottom Wave" />
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=120&section=footer" width="100%" alt="Footer wave" />

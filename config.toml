@@ -88,7 +88,7 @@ arch = "arm64-v8a"
 patcher-args = "-e 'Clone' -OpackageName='com.instagram' -OappName='Instagram'"
 
 [Instagram.patches]
-"github:crimera/piko" = { version = "dev", exclude = ["Change version code"] }
+"github:crimera/piko" = { version = "dev", include = ["Disable analytics", "Disable screenshot detection", "Make ephemeral media permanent", "View DMs anonymously", "View live anonymously", "View stories anonymously"], exclude = ["Change version code"] }
 
 [Instagram-Hush]
 enabled = true

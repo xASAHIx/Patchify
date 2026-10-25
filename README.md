@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=700&size=28&duration=2500&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Patchify;Ads+Belong+in+Museums.;Because+Apps+Deserve+Better.;Less+Waiting.+More+Doing.;Turning+Good+Apps+into+Great+Apps.;Less+Clutter.+More+Features.;Goodbye+Ads.+Hello+Experience.;Ads%3F+We+Don't+Know+Them." />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=180&section=header&text=ASAHI%20%7C%20%E6%9C%9D%E6%97%A5%20%7C%20Patchify&fontSize=50&fontColor=00F0FF&fontAlignY=45&animation=fadeIn" width="100%" alt="Header" />
 
 ## ☞ About
 * **Welcome to the **Patchify**. This repository provides ready-to-install, pre-patched Android applications using [Morphe](https://morphe.software/). All APKs are automatically downloaded, patched, released and kept up-to-date via GitHub Actions to ensure a seamless experience.**
@@ -12,7 +10,7 @@
 <details>
 <summary><b>1. Gboard</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=gboard)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=gboard)
 
 * **App Version:** `18.0.3.954559732-release-arm64-v8a`
 * **Patch Bundles:** `hoo-dles/morphe-patches, jasonwu1994/Gboard-patches`
@@ -70,7 +68,7 @@
 <details>
 <summary><b>2. Google-Photos</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=google-photos)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=google-photos)
 
 * **App Version:** `7.97.0.997578476`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
@@ -89,7 +87,7 @@
 <details>
 <summary><b>3. Instagram</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=instagram)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=instagram)
 
 * **App Version:** `439.0.0.37.89`
 * **Patch Bundles:** `crimera/piko`
@@ -170,7 +168,7 @@
 <details>
 <summary><b>4. Instagram-Hush</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=instagram-hush)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=instagram-hush)
 
 * **App Version:** `Unknown`
 * **Patch Bundles:** `SysAdminDoc/HushGram`
@@ -296,7 +294,7 @@
 <details>
 <summary><b>5. Pinterest</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=pinterest)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=pinterest)
 
 * **App Version:** `14.34.0`
 * **Patch Bundles:** `browzomje/browzomje-patches, MorpheApp/morphe-patches`
@@ -365,7 +363,7 @@
 <details>
 <summary><b>6. Reddit</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=reddit)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
@@ -418,7 +416,7 @@
 <details>
 <summary><b>7. Twitter</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=twitter)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=twitter)
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
@@ -503,7 +501,7 @@
 <details>
 <summary><b>8. X</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=x)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=x)
 
 * **App Version:** `12.35.0-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
@@ -557,7 +555,7 @@
 <details>
 <summary><b>9. YouTube</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=youtube)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube)
 
 * **App Version:** `21.42.241`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
@@ -676,7 +674,7 @@
 <details>
 <summary><b>10. YouTube-Music</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=youtube-music)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube-music)
 
 * **App Version:** `9.42.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
@@ -739,7 +737,7 @@
 <details>
 <summary><b>11. YouTube-Music-ReVanced-Extended</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=youtube-music-revanced-extended)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube-music-revanced-extended)
 
 * **App Version:** `9.40.51`
 * **Patch Bundles:** `anddea/revanced-patches`
@@ -798,7 +796,7 @@
 <details>
 <summary><b>12. YouTube-ReVanced-Extended</b></summary>
 
-[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/the-asahi/Patchify/releases?q=youtube-revanced-extended)
+[![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube-revanced-extended)
 
 * **App Version:** `21.39.525`
 * **Patch Bundles:** `anddea/revanced-patches`
@@ -921,6 +919,7 @@ B6:D4:EF:D1:53:65:4A:7B:43:61:43:66:06:22:D2:FB:63:B0:4E:20:90:6C:FE:41:54:AA:60
 ## 👀 Repository Scope & Support
 
 * This repository does not host every application that can be patched using Morphe. It only includes the apps that I personally use.
-* If you encounter any bugs or issues, you can [open an issue](https://github.com/the-asahi/Patchify/issues).
+* If you encounter any bugs or issues, you can [open an issue](https://github.com/xASAHIx/Patchify/issues).
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" alt="Bottom Wave" />
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24&height=120&section=footer" width="100%" alt="Footer wave" />

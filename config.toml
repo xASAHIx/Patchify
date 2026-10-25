@@ -101,7 +101,7 @@ patcher-args = "-e 'Install next to Instagram' -OappName='HushGram' -OmarkIcon=t
 "github:SysAdminDoc/HushGram" = { version = "latest", include = ["Pure black dark mode", "Open developer options", "View DM photos and videos anonymously"] }
 
 [Gboard]
-enabled = true
+enabled = false
 brand = "Gboard"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/gboard/"
 arch = "arm64-v8a"

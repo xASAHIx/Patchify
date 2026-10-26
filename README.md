@@ -70,9 +70,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=google-photos)
 
-* **App Version:** `7.97.0.997578476`
+* **App Version:** `7.98.0.1001971222`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.15.4`
+* **Patches Version:** `1.16.1`
 
 * **Applied Patches (7):**
   * `AMOLED dark theme`
@@ -93,7 +93,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (66):**
+* **Applied Patches (72):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -117,6 +117,7 @@
   * `Disable stories`
   * `Disable story flipping`
   * `Disable swipe to create`
+  * `Disable telemetry`
   * `Disable typing status`
   * `Disable video autoplay`
   * `Download media`
@@ -125,20 +126,25 @@
   * `Filter stories`
   * `Focus Lock`
   * `Friendship status indicator`
+  * `Hidden chats`
   * `Hide Reels follow button`
+  * `Hide feed posts`
   * `Hide group creation button on sharesheet`
+  * `Hide hidden requests`
   * `Hide navigation buttons`
   * `Hide notes tray`
   * `Hide reshare button`
   * `Hide save buttons`
   * `Hide share button`
   * `Hide stories tray`
+  * `Hide story follow button`
   * `Hide suggested content`
   * `Improve image viewing`
   * `Inbox lock`
   * `Limit feed to following profiles`
   * `Loop story`
   * `Make ephemeral media permanent`
+  * `Mark as read after reply`
   * `Mark chat as read manually`
   * `More options on post`
   * `More options on profile`
@@ -366,10 +372,10 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.48.0, 1.6.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.7.0, 1.48.0`
 
-* **Applied Patches (35):**
+* **Applied Patches (36):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Copy text`
@@ -391,6 +397,7 @@
   * `Hide community menu badge`
   * `Hide media viewer components`
   * `Hide navigation buttons`
+  * `Hide related posts`
   * `Hide sidebar components`
   * `Keep feed position`
   * `Media viewer black background`
@@ -420,7 +427,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.10.0`
+* **Patches Version:** `3.11.0-dev.3`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -503,12 +510,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=x)
 
-* **App Version:** `12.35.0-prod.01`
+* **App Version:** `12.37.2-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.57.1`
+* **Patches Version:** `3.64.1`
 
-* **Applied Patches (42):**
-  * `NewX: Classic inline action spacing`
+* **Applied Patches (41):**
   * `NewX: Crash logs`
   * `NewX: Custom font`
   * `NewX: Custom sharing domain`
@@ -531,6 +537,7 @@
   * `NewX: Hide Spaces bar`
   * `NewX: Hide compose button`
   * `NewX: Hide new posts pill`
+  * `NewX: Hide post author actions`
   * `NewX: Hide post reply bar`
   * `NewX: Hide posts by verified account type`
   * `NewX: Hide premium upsell`
@@ -541,7 +548,6 @@
   * `NewX: Redirect downloads to chosen folder`
   * `NewX: Remove ads`
   * `NewX: Restore pinned home tab`
-  * `NewX: Restore timeline position`
   * `NewX: Set default media tab`
   * `NewX: Set default profile post sorting`
   * `NewX: Set default reply sorting`

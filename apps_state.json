@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.10.0"
+                "version": "3.11.0-dev.3"
             }
         ],
         "applied": [
@@ -158,7 +158,13 @@
             "Inbox lock",
             "Save Instants",
             "Hide save buttons",
-            "Hide share button"
+            "Hide share button",
+            "Disable telemetry",
+            "Hidden chats",
+            "Hide feed posts",
+            "Hide hidden requests",
+            "Hide story follow button",
+            "Mark as read after reply"
         ],
         "excluded": [
             "Change version code"
@@ -443,12 +449,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.7.0"
             },
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.6.0"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.48.0"
             }
         ],
         "applied": [
@@ -473,6 +479,7 @@
             "Hide community menu badge",
             "Hide media viewer components",
             "Hide navigation buttons",
+            "Hide related posts",
             "Hide sidebar components",
             "Keep feed position",
             "Media viewer black background",
@@ -689,15 +696,14 @@
         "excluded": []
     },
     "X": {
-        "version": "12.35.0-prod.01",
+        "version": "12.37.2-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "3.57.1"
+                "version": "3.64.1"
             }
         ],
         "applied": [
-            "NewX: Classic inline action spacing",
             "NewX: Crash logs",
             "NewX: Custom font",
             "NewX: Custom sharing domain",
@@ -720,6 +726,7 @@
             "NewX: Hide Spaces bar",
             "NewX: Hide compose button",
             "NewX: Hide new posts pill",
+            "NewX: Hide post author actions",
             "NewX: Hide post reply bar",
             "NewX: Hide posts by verified account type",
             "NewX: Hide premium upsell",
@@ -730,7 +737,6 @@
             "NewX: Redirect downloads to chosen folder",
             "NewX: Remove ads",
             "NewX: Restore pinned home tab",
-            "NewX: Restore timeline position",
             "NewX: Set default media tab",
             "NewX: Set default profile post sorting",
             "NewX: Set default reply sorting",
@@ -743,11 +749,11 @@
         "excluded": []
     },
     "Google-Photos": {
-        "version": "7.97.0.997578476",
+        "version": "7.98.0.1001971222",
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.15.4"
+                "version": "1.16.1"
             }
         ],
         "applied": [

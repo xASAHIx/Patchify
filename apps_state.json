@@ -449,12 +449,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.7.0"
-            },
-            {
                 "repo": "MorpheApp/morphe-patches",
                 "version": "1.48.0"
+            },
+            {
+                "repo": "jkennethcarino/adobo",
+                "version": "1.7.0"
             }
         ],
         "applied": [

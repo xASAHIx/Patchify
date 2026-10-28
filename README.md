@@ -180,7 +180,7 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (114):**
+* **Applied Patches (124):**
   * `Accent color`
   * `Allow screenshots`
   * `Ask before a call`
@@ -224,6 +224,7 @@
   * `Hide paid partnership Reels`
   * `Hide profile tabs`
   * `Hide reels by caption words`
+  * `Hide rows in Instagram's settings`
   * `Hide suggested accounts in DMs`
   * `Hide suggested accounts in Reels`
   * `Hide suggested people on profiles`
@@ -247,6 +248,7 @@
   * `Keep a seek bar on Reels`
   * `Keep in chat`
   * `Keep the reel speed`
+  * `Keep your place in Home`
   * `Lock your messages`
   * `Long press to zoom`
   * `Loop a story`
@@ -254,6 +256,7 @@
   * `Open comments without the keyboard`
   * `Open developer options`
   * `Open links in external browser`
+  * `Pick the app icon`
   * `Profile posts as a list`
   * `Pure black dark mode`
   * `Read messages without the seen receipt`
@@ -268,6 +271,7 @@
   * `Save profile picture`
   * `Saved on your profile`
   * `See who a story mentions`
+  * `Seek bar on stories`
   * `Show a post's exact time`
   * `Show a reel's exact time`
   * `Show a story's exact time`
@@ -279,6 +283,7 @@
   * `Start Home on Following`
   * `Start feed videos with sound`
   * `Start on x86 devices`
+  * `Start reels with sound`
   * `Start stories with sound`
   * `Stop Reels scrolling`
   * `Stop Story auto-advance`
@@ -287,8 +292,13 @@
   * `Stop swipe up to reply`
   * `Stop swiping between tabs`
   * `Story ring size`
+  * `Story text fonts`
+  * `Swipe left to open the profile`
+  * `Swipe through a chat's reels`
+  * `Tab bar layout`
   * `Tap a feed video to pause it`
   * `Tap to play`
+  * `Thicker story progress bar`
   * `Turn off HDR brightness boosts`
   * `Turn off double tap to like`
   * `Upload stories at full quality`
@@ -372,8 +382,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `1.48.0, 1.7.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.7.0, 1.48.0`
 
 * **Applied Patches (36):**
   * `App icon`

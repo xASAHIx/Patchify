@@ -449,12 +449,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.7.0"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "1.48.0"
             }
         ],
         "applied": [
@@ -889,7 +889,17 @@
             "Message box buttons",
             "Open comments without the keyboard",
             "Show all recent searches",
-            "Stop swipe up to reply"
+            "Stop swipe up to reply",
+            "Hide rows in Instagram's settings",
+            "Keep your place in Home",
+            "Pick the app icon",
+            "Seek bar on stories",
+            "Start reels with sound",
+            "Story text fonts",
+            "Swipe left to open the profile",
+            "Swipe through a chat's reels",
+            "Tab bar layout",
+            "Thicker story progress bar"
         ],
         "excluded": []
     }

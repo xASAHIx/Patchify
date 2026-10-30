@@ -266,11 +266,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.42.241",
+        "version": "21.43.523",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0"
+                "version": "2.0.0"
             }
         ],
         "applied": [
@@ -310,6 +310,7 @@
             "Disable sign in to TV popup",
             "Disable video codecs",
             "Double tap to seek",
+            "Download post images",
             "Downloads",
             "Enable debugging",
             "Exit fullscreen mode",
@@ -340,6 +341,7 @@
             "Miniplayer",
             "Mute button",
             "Navigation bar",
+            "Niconico comments",
             "Open Shorts in regular player",
             "Open channel of live avatar",
             "Open links externally",
@@ -360,6 +362,7 @@
             "Return YouTube Dislike",
             "Sanitize sharing links",
             "Save to Watch later",
+            "Search comments",
             "Seekbar",
             "Series tracking",
             "Settings menu filter",
@@ -372,6 +375,7 @@
             "Spoof video streams",
             "Swipe controls",
             "Theme",
+            "Translate posts",
             "Video delay",
             "Video quality",
             "Voice over translation",
@@ -384,11 +388,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.42.52",
+        "version": "9.43.51",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0"
+                "version": "2.0.0"
             }
         ],
         "applied": [
@@ -449,12 +453,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.7.0"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "2.0.0"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "1.48.0"
+                "repo": "jkennethcarino/adobo",
+                "version": "1.7.0"
             }
         ],
         "applied": [
@@ -749,11 +753,11 @@
         "excluded": []
     },
     "Google-Photos": {
-        "version": "7.98.0.1001971222",
+        "version": "7.99.0.1007655401",
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.16.1"
+                "version": "1.17.0"
             }
         ],
         "applied": [

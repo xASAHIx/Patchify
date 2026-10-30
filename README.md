@@ -70,9 +70,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=google-photos)
 
-* **App Version:** `7.98.0.1001971222`
+* **App Version:** `7.99.0.1007655401`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.16.1`
+* **Patches Version:** `1.17.0`
 
 * **Applied Patches (7):**
   * `AMOLED dark theme`
@@ -382,8 +382,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.7.0, 1.48.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `2.0.0, 1.7.0`
 
 * **Applied Patches (36):**
   * `App icon`
@@ -573,11 +573,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube)
 
-* **App Version:** `21.42.241`
+* **App Version:** `21.43.523`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.48.0`
+* **Patches Version:** `2.0.0`
 
-* **Applied Patches (104):**
+* **Applied Patches (108):**
   * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
@@ -614,6 +614,7 @@
   * `Disable sign in to TV popup`
   * `Disable video codecs`
   * `Double tap to seek`
+  * `Download post images`
   * `Downloads`
   * `Enable debugging`
   * `Exit fullscreen mode`
@@ -644,6 +645,7 @@
   * `Miniplayer`
   * `Mute button`
   * `Navigation bar`
+  * `Niconico comments`
   * `Open Shorts in regular player`
   * `Open channel of live avatar`
   * `Open links externally`
@@ -665,6 +667,7 @@
   * `Return YouTube Dislike`
   * `Sanitize sharing links`
   * `Save to Watch later`
+  * `Search comments`
   * `Seekbar`
   * `Series tracking`
   * `Settings menu filter`
@@ -678,6 +681,7 @@
   * `Spoof video streams`
   * `Swipe controls`
   * `Theme`
+  * `Translate posts`
   * `Video delay`
   * `Video quality`
   * `Voice over translation`
@@ -692,9 +696,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube-music)
 
-* **App Version:** `9.42.52`
+* **App Version:** `9.43.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `1.48.0`
+* **Patches Version:** `2.0.0`
 
 * **Applied Patches (48):**
   * `Android Auto`

@@ -382,8 +382,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `2.0.0, 1.7.0`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `1.7.0, 2.0.0`
 
 * **Applied Patches (36):**
   * `App icon`
@@ -761,7 +761,7 @@
 
 * **App Version:** `9.40.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.4.0-dev.2`
+* **Patches Version:** `4.4.0-dev.4`
 
 * **Applied Patches (43):**
   * `App refresh rate`
@@ -820,9 +820,9 @@
 
 * **App Version:** `21.39.525`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.4.0-dev.2`
+* **Patches Version:** `4.4.0-dev.4`
 
-* **Applied Patches (80):**
+* **Applied Patches (83):**
   * `Ambient mode control`
   * `App refresh rate`
   * `Bypass URL redirects`
@@ -848,7 +848,9 @@
   * `Disable resuming Shorts on startup`
   * `Disable scrolling speed limit`
   * `Disable sign in to TV popup`
+  * `Download post images`
   * `Enable gradient loading screen`
+  * `Feed video actions`
   * `Force original audio`
   * `Fullscreen components`
   * `Fullscreen video scale`
@@ -885,6 +887,7 @@
   * `Return YouTube Username`
   * `Sanitize sharing links`
   * `Save to Watch later`
+  * `Search comments`
   * `Seekbar components`
   * `Set transcript cookies`
   * `Settings for YouTube`

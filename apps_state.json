@@ -175,7 +175,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.4.0-dev.2"
+                "version": "4.4.0-dev.4"
             }
         ],
         "applied": [
@@ -203,7 +203,9 @@
             "Disable resuming Shorts on startup",
             "Disable scrolling speed limit",
             "Disable sign in to TV popup",
+            "Download post images",
             "Enable gradient loading screen",
+            "Feed video actions",
             "Force original audio",
             "Fullscreen components",
             "Fullscreen video scale",
@@ -239,6 +241,7 @@
             "Return YouTube Username",
             "Sanitize sharing links",
             "Save to Watch later",
+            "Search comments",
             "Seekbar components",
             "Set transcript cookies",
             "Settings menu filter",
@@ -453,12 +456,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "2.0.0"
-            },
-            {
                 "repo": "jkennethcarino/adobo",
                 "version": "1.7.0"
+            },
+            {
+                "repo": "MorpheApp/morphe-patches",
+                "version": "2.0.0"
             }
         ],
         "applied": [
@@ -511,7 +514,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.4.0-dev.2"
+                "version": "4.4.0-dev.4"
             }
         ],
         "applied": [

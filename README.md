@@ -72,7 +72,7 @@
 
 * **App Version:** `7.99.0.1007655401`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.17.0`
+* **Patches Version:** `1.17.5`
 
 * **Applied Patches (7):**
   * `AMOLED dark theme`
@@ -93,7 +93,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (72):**
+* **Applied Patches (73):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -108,6 +108,7 @@
   * `Disable ads`
   * `Disable analytics`
   * `Disable comments`
+  * `Disable disappearing messages swipe`
   * `Disable discover people`
   * `Disable double tap like`
   * `Disable explore`
@@ -180,15 +181,19 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (124):**
+* **Applied Patches (140):**
   * `Accent color`
   * `Allow screenshots`
+  * `Ambient light`
+  * `App-only proxy`
   * `Ask before a call`
   * `Ask before a like`
   * `Ask before a refresh`
   * `Back leaves Home`
   * `Blur the bars around Reels`
+  * `Carousel arrows`
   * `Change the like animation`
+  * `Chat history tools`
   * `Clean up Reels`
   * `Clear the media cache`
   * `Control taps and volume on Reels`
@@ -204,6 +209,7 @@
   * `Download any video`
   * `Download voice messages`
   * `Emoji style`
+  * `Explore without personalization`
   * `Find the reel you came from`
   * `Font`
   * `Full resolution photos`
@@ -218,6 +224,7 @@
   * `Hide Notes on profile pictures`
   * `Hide Reels in the feed`
   * `Hide ads`
+  * `Hide captions`
   * `Hide comments`
   * `Hide group buttons on the share sheet`
   * `Hide highlights`
@@ -244,19 +251,23 @@
   * `HushGram launch screen`
   * `HushGram settings`
   * `Install next to Instagram`
+  * `Keep Home's top bar`
   * `Keep Reels auto scroll on`
   * `Keep a seek bar on Reels`
   * `Keep in chat`
+  * `Keep the Reels top bar`
   * `Keep the reel speed`
   * `Keep your place in Home`
   * `Lock your messages`
   * `Long press to zoom`
   * `Loop a story`
+  * `Mark one-time photos and videos`
   * `Message box buttons`
   * `Open comments without the keyboard`
   * `Open developer options`
   * `Open links in external browser`
   * `Pick the app icon`
+  * `Pinch to zoom on Reels`
   * `Profile posts as a list`
   * `Pure black dark mode`
   * `Read messages without the seen receipt`
@@ -271,6 +282,7 @@
   * `Save profile picture`
   * `Saved on your profile`
   * `See who a story mentions`
+  * `Seek bar on feed videos`
   * `Seek bar on stories`
   * `Show a post's exact time`
   * `Show a reel's exact time`
@@ -279,6 +291,9 @@
   * `Show hidden like counts`
   * `Show if a profile follows you`
   * `Show when someone was last active`
+  * `Skip the collections tray`
+  * `Skip the contacts and location popups`
+  * `Smooth story opening`
   * `Spoof location`
   * `Start Home on Following`
   * `Start feed videos with sound`
@@ -291,6 +306,7 @@
   * `Stop swipe to create`
   * `Stop swipe up to reply`
   * `Stop swiping between tabs`
+  * `Stop videos looping`
   * `Story ring size`
   * `Story text fonts`
   * `Swipe left to open the profile`
@@ -302,6 +318,7 @@
   * `Turn off HDR brightness boosts`
   * `Turn off double tap to like`
   * `Upload stories at full quality`
+  * `Use the highest refresh rate`
   * `View DM photos and videos anonymously`
   * `View live anonymously`
   * `View stories anonymously`
@@ -382,8 +399,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `1.7.0, 2.0.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `2.0.0, 2.0.0-dev.1`
 
 * **Applied Patches (36):**
   * `App icon`
@@ -437,7 +454,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.11.0-dev.3`
+* **Patches Version:** `3.11.0-dev.4`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -520,11 +537,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=x)
 
-* **App Version:** `12.37.2-prod.01`
+* **App Version:** `12.39.0-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.64.1`
+* **Patches Version:** `3.73.0`
 
-* **Applied Patches (41):**
+* **Applied Patches (46):**
   * `NewX: Crash logs`
   * `NewX: Custom font`
   * `NewX: Custom sharing domain`
@@ -538,6 +555,7 @@
   * `NewX: Disable automatic timeline refresh`
   * `NewX: Disable blur effects`
   * `NewX: Disable video player scrolling`
+  * `NewX: Enable quality-of-life feature flags`
   * `NewX: Feature switch overrides`
   * `NewX: Filter For You by topic`
   * `NewX: Filter posts by keyword`
@@ -555,15 +573,19 @@
   * `NewX: Hide who to follow`
   * `NewX: Inline download button`
   * `NewX: Open canonical URLs`
+  * `NewX: Permanent share links`
   * `NewX: Redirect downloads to chosen folder`
   * `NewX: Remove ads`
+  * `NewX: Remove share tracking parameters`
   * `NewX: Restore pinned home tab`
+  * `NewX: Restore timeline position`
   * `NewX: Set default media tab`
   * `NewX: Set default profile post sorting`
   * `NewX: Set default reply sorting`
   * `NewX: Show poll results`
   * `NewX: Show sensitive media`
   * `NewX: Theme`
+  * `NewX: Translator`
   * `NewX: Unlock color customization`
   * `NewX: Unlock downloads`
 </details>

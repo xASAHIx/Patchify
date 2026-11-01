@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.11.0-dev.3"
+                "version": "3.11.0-dev.4"
             }
         ],
         "applied": [
@@ -164,7 +164,8 @@
             "Hide feed posts",
             "Hide hidden requests",
             "Hide story follow button",
-            "Mark as read after reply"
+            "Mark as read after reply",
+            "Disable disappearing messages swipe"
         ],
         "excluded": [
             "Change version code"
@@ -456,12 +457,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "1.7.0"
-            },
-            {
                 "repo": "MorpheApp/morphe-patches",
                 "version": "2.0.0"
+            },
+            {
+                "repo": "jkennethcarino/adobo",
+                "version": "2.0.0-dev.1"
             }
         ],
         "applied": [
@@ -703,11 +704,11 @@
         "excluded": []
     },
     "X": {
-        "version": "12.37.2-prod.01",
+        "version": "12.39.0-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "3.64.1"
+                "version": "3.73.0"
             }
         ],
         "applied": [
@@ -724,6 +725,7 @@
             "NewX: Disable automatic timeline refresh",
             "NewX: Disable blur effects",
             "NewX: Disable video player scrolling",
+            "NewX: Enable quality-of-life feature flags",
             "NewX: Feature switch overrides",
             "NewX: Filter For You by topic",
             "NewX: Filter posts by keyword",
@@ -741,15 +743,19 @@
             "NewX: Hide who to follow",
             "NewX: Inline download button",
             "NewX: Open canonical URLs",
+            "NewX: Permanent share links",
             "NewX: Redirect downloads to chosen folder",
             "NewX: Remove ads",
+            "NewX: Remove share tracking parameters",
             "NewX: Restore pinned home tab",
+            "NewX: Restore timeline position",
             "NewX: Set default media tab",
             "NewX: Set default profile post sorting",
             "NewX: Set default reply sorting",
             "NewX: Show poll results",
             "NewX: Show sensitive media",
             "NewX: Theme",
+            "NewX: Translator",
             "NewX: Unlock color customization",
             "NewX: Unlock downloads"
         ],
@@ -760,7 +766,7 @@
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.17.0"
+                "version": "1.17.5"
             }
         ],
         "applied": [
@@ -906,7 +912,23 @@
             "Swipe left to open the profile",
             "Swipe through a chat's reels",
             "Tab bar layout",
-            "Thicker story progress bar"
+            "Thicker story progress bar",
+            "Ambient light",
+            "App-only proxy",
+            "Carousel arrows",
+            "Chat history tools",
+            "Explore without personalization",
+            "Hide captions",
+            "Keep Home's top bar",
+            "Keep the Reels top bar",
+            "Mark one-time photos and videos",
+            "Pinch to zoom on Reels",
+            "Seek bar on feed videos",
+            "Skip the collections tray",
+            "Skip the contacts and location popups",
+            "Smooth story opening",
+            "Stop videos looping",
+            "Use the highest refresh rate"
         ],
         "excluded": []
     }

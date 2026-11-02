@@ -457,12 +457,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "2.0.0"
+                "repo": "jkennethcarino/adobo",
+                "version": "2.0.0-dev.3"
             },
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "2.0.0-dev.1"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "2.0.0"
             }
         ],
         "applied": [
@@ -766,7 +766,7 @@
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.17.5"
+                "version": "1.17.7"
             }
         ],
         "applied": [

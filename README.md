@@ -72,7 +72,7 @@
 
 * **App Version:** `7.99.0.1007655401`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.17.5`
+* **Patches Version:** `1.17.7`
 
 * **Applied Patches (7):**
   * `AMOLED dark theme`
@@ -399,8 +399,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `2.0.0, 2.0.0-dev.1`
+* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
+* **Patches Version:** `2.0.0-dev.3, 2.0.0`
 
 * **Applied Patches (36):**
   * `App icon`

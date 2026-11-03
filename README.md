@@ -72,7 +72,7 @@
 
 * **App Version:** `7.99.0.1007655401`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.17.7`
+* **Patches Version:** `1.17.8`
 
 * **Applied Patches (7):**
   * `AMOLED dark theme`

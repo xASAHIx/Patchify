@@ -72,11 +72,10 @@
 
 * **App Version:** `7.99.0.1007655401`
 * **Patch Bundles:** `Akash-Sriram/morphe-google-photos`
-* **Patches Version:** `1.17.8`
+* **Patches Version:** `1.17.11`
 
-* **Applied Patches (7):**
+* **Applied Patches (6):**
   * `AMOLED dark theme`
-  * `Custom Morphe branding`
   * `DCIM & backup control`
   * `Flag manager & Toolkit`
   * `GmsCore support`
@@ -93,7 +92,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (73):**
+* **Applied Patches (75):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -132,6 +131,7 @@
   * `Hide feed posts`
   * `Hide group creation button on sharesheet`
   * `Hide hidden requests`
+  * `Hide like buttons`
   * `Hide navigation buttons`
   * `Hide notes tray`
   * `Hide reshare button`
@@ -153,6 +153,7 @@
   * `Recommended flags`
   * `Remove build expired popup`
   * `Remove empty bottom space`
+  * `Resume Reels after scrolling`
   * `Sanitize share links`
   * `Save Instants`
   * `Save deleted messages`
@@ -181,7 +182,7 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (140):**
+* **Applied Patches (155):**
   * `Accent color`
   * `Allow screenshots`
   * `Ambient light`
@@ -194,6 +195,7 @@
   * `Carousel arrows`
   * `Change the like animation`
   * `Chat history tools`
+  * `Chat plus menu`
   * `Clean up Reels`
   * `Clear the media cache`
   * `Control taps and volume on Reels`
@@ -201,6 +203,7 @@
   * `Data saver`
   * `Default playback quality`
   * `Disable analytics`
+  * `Don't report Blend visits`
   * `Don't report screenshots`
   * `Don't save recent searches`
   * `Don't send reel watch history`
@@ -214,6 +217,7 @@
   * `Font`
   * `Full resolution photos`
   * `Full screen Reels and Home`
+  * `Glass in chats`
   * `Glass tab bar`
   * `Group Instagram's notifications`
   * `Hide AI-labeled reels`
@@ -223,6 +227,7 @@
   * `Hide Meta AI`
   * `Hide Notes on profile pictures`
   * `Hide Reels in the feed`
+  * `Hide activity bubbles`
   * `Hide ads`
   * `Hide captions`
   * `Hide comments`
@@ -231,6 +236,7 @@
   * `Hide paid partnership Reels`
   * `Hide profile tabs`
   * `Hide reels by caption words`
+  * `Hide reels with few views`
   * `Hide rows in Instagram's settings`
   * `Hide suggested accounts in DMs`
   * `Hide suggested accounts in Reels`
@@ -243,11 +249,14 @@
   * `Hide the Repost button`
   * `Hide the Share button`
   * `Hide the Threads button`
+  * `Hide the audio icon on posts`
   * `Hide the comment emoji row`
   * `Hide the home feed`
   * `Hide the notes row`
+  * `Hide the reply box on stories`
   * `Hide the search bar in Messages`
   * `Hide your active status`
+  * `Home header text`
   * `HushGram launch screen`
   * `HushGram settings`
   * `Install next to Instagram`
@@ -255,6 +264,8 @@
   * `Keep Reels auto scroll on`
   * `Keep a seek bar on Reels`
   * `Keep in chat`
+  * `Keep playing in the background`
+  * `Keep stories playing while zooming`
   * `Keep the Reels top bar`
   * `Keep the reel speed`
   * `Keep your place in Home`
@@ -266,8 +277,10 @@
   * `Open comments without the keyboard`
   * `Open developer options`
   * `Open links in external browser`
+  * `Phone layout on big screens`
   * `Pick the app icon`
   * `Pinch to zoom on Reels`
+  * `Preview chats`
   * `Profile posts as a list`
   * `Pure black dark mode`
   * `Read messages without the seen receipt`
@@ -291,9 +304,11 @@
   * `Show hidden like counts`
   * `Show if a profile follows you`
   * `Show when someone was last active`
+  * `Skip the ad data reminder`
   * `Skip the collections tray`
   * `Skip the contacts and location popups`
   * `Smooth story opening`
+  * `Speed button on stories`
   * `Spoof location`
   * `Start Home on Following`
   * `Start feed videos with sound`
@@ -307,6 +322,7 @@
   * `Stop swipe up to reply`
   * `Stop swiping between tabs`
   * `Stop videos looping`
+  * `Stories priority`
   * `Story ring size`
   * `Story text fonts`
   * `Swipe left to open the profile`
@@ -399,8 +415,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `2.0.0-dev.3, 2.0.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `2.1.0, 2.0.0-dev.3`
 
 * **Applied Patches (36):**
   * `App icon`
@@ -454,7 +470,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.11.0-dev.4`
+* **Patches Version:** `3.11.0-dev.5`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -537,9 +553,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=x)
 
-* **App Version:** `12.39.0-prod.01`
+* **App Version:** `12.40.1-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.73.0`
+* **Patches Version:** `3.74.0`
 
 * **Applied Patches (46):**
   * `NewX: Crash logs`
@@ -595,11 +611,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube)
 
-* **App Version:** `21.43.523`
+* **App Version:** `21.44.528`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `2.0.0`
+* **Patches Version:** `2.1.0`
 
-* **Applied Patches (108):**
+* **Applied Patches (112):**
   * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
@@ -610,6 +626,7 @@
   * `Captions`
   * `Change form factor`
   * `Change header`
+  * `Change picture-in-picture actions`
   * `Change start page`
   * `Channel search`
   * `Channel whitelist`
@@ -697,16 +714,19 @@
   * `Shorts icon style`
   * `Skip live Shorts`
   * `Skip silence`
+  * `Snackbar`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof device dimensions`
   * `Spoof video streams`
   * `Swipe controls`
   * `Theme`
+  * `Translate live chat`
   * `Translate posts`
   * `Video delay`
   * `Video quality`
   * `Voice over translation`
+  * `Watch later improvements`
   * `Wide search bar`
 
 * **Excluded Patches (1):**
@@ -718,11 +738,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube-music)
 
-* **App Version:** `9.43.51`
+* **App Version:** `9.44.52`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `2.0.0`
+* **Patches Version:** `2.1.0`
 
-* **Applied Patches (48):**
+* **Applied Patches (50):**
   * `Android Auto`
   * `App refresh rate`
   * `Change header`
@@ -755,6 +775,7 @@
   * `Navigation bar`
   * `Play albums songs`
   * `Playback speed`
+  * `Playlist tags`
   * `Playlist track tap action`
   * `PoToken provider`
   * `Remember repeat state`
@@ -766,6 +787,7 @@
   * `Scrobbling`
   * `Settings menu filter`
   * `Skip silence`
+  * `SoundProof`
   * `SponsorBlock`
   * `Spoof app version`
   * `Spoof video streams`

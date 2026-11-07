@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.11.0-dev.4"
+                "version": "3.11.0-dev.5"
             }
         ],
         "applied": [
@@ -165,7 +165,9 @@
             "Hide hidden requests",
             "Hide story follow button",
             "Mark as read after reply",
-            "Disable disappearing messages swipe"
+            "Disable disappearing messages swipe",
+            "Hide like buttons",
+            "Resume Reels after scrolling"
         ],
         "excluded": [
             "Change version code"
@@ -270,11 +272,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.43.523",
+        "version": "21.44.528",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "2.0.0"
+                "version": "2.1.0"
             }
         ],
         "applied": [
@@ -288,6 +290,7 @@
             "Captions",
             "Change form factor",
             "Change header",
+            "Change picture-in-picture actions",
             "Change start page",
             "Channel search",
             "Channel whitelist",
@@ -344,7 +347,6 @@
             "Media notification controls",
             "Miniplayer",
             "Mute button",
-            "Navigation bar",
             "Niconico comments",
             "Open Shorts in regular player",
             "Open channel of live avatar",
@@ -373,30 +375,34 @@
             "Shorts autoplay",
             "Skip live Shorts",
             "Skip silence",
+            "Snackbar",
             "SponsorBlock",
             "Spoof app version",
             "Spoof device dimensions",
             "Spoof video streams",
             "Swipe controls",
             "Theme",
+            "Translate live chat",
             "Translate posts",
             "Video delay",
             "Video quality",
             "Voice over translation",
+            "Watch later improvements",
             "Wide search bar",
             "Shorts icon style",
-            "Player icon style"
+            "Player icon style",
+            "Navigation bar"
         ],
         "excluded": [
             "Disable Play Store updates"
         ]
     },
     "YouTube-Music": {
-        "version": "9.43.51",
+        "version": "9.44.52",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "2.0.0"
+                "version": "2.1.0"
             }
         ],
         "applied": [
@@ -432,6 +438,7 @@
             "Navigation bar",
             "Play albums songs",
             "Playback speed",
+            "Playlist tags",
             "Playlist track tap action",
             "PoToken provider",
             "Remember repeat state",
@@ -443,6 +450,7 @@
             "Scrobbling",
             "Settings menu filter",
             "Skip silence",
+            "SoundProof",
             "SponsorBlock",
             "Spoof app version",
             "Spoof video streams",
@@ -457,12 +465,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "2.0.0-dev.3"
+                "repo": "MorpheApp/morphe-patches",
+                "version": "2.1.0"
             },
             {
-                "repo": "MorpheApp/morphe-patches",
-                "version": "2.0.0"
+                "repo": "jkennethcarino/adobo",
+                "version": "2.0.0-dev.3"
             }
         ],
         "applied": [
@@ -704,11 +712,11 @@
         "excluded": []
     },
     "X": {
-        "version": "12.39.0-prod.01",
+        "version": "12.40.1-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "3.73.0"
+                "version": "3.74.0"
             }
         ],
         "applied": [
@@ -766,12 +774,11 @@
         "bundles": [
             {
                 "repo": "Akash-Sriram/morphe-google-photos",
-                "version": "1.17.8"
+                "version": "1.17.11"
             }
         ],
         "applied": [
             "AMOLED dark theme",
-            "Custom Morphe branding",
             "DCIM & backup control",
             "Flag manager & Toolkit",
             "Media engine & AI fixes",
@@ -928,7 +935,22 @@
             "Skip the contacts and location popups",
             "Smooth story opening",
             "Stop videos looping",
-            "Use the highest refresh rate"
+            "Use the highest refresh rate",
+            "Chat plus menu",
+            "Don't report Blend visits",
+            "Glass in chats",
+            "Hide activity bubbles",
+            "Hide reels with few views",
+            "Hide the audio icon on posts",
+            "Hide the reply box on stories",
+            "Home header text",
+            "Keep playing in the background",
+            "Keep stories playing while zooming",
+            "Phone layout on big screens",
+            "Preview chats",
+            "Skip the ad data reminder",
+            "Speed button on stories",
+            "Stories priority"
         ],
         "excluded": []
     }

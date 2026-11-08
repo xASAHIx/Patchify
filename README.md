@@ -416,7 +416,7 @@
 
 * **App Version:** `2026.42.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `2.1.0, 2.0.0-dev.3`
+* **Patches Version:** `2.1.0, 2.0.0-dev.4`
 
 * **Applied Patches (36):**
   * `App icon`

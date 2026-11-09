@@ -470,7 +470,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.11.0-dev.5`
+* **Patches Version:** `3.11.0`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -553,9 +553,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=x)
 
-* **App Version:** `12.40.1-prod.01`
+* **App Version:** `12.41.0-prod.01`
 * **Patch Bundles:** `crimera/piko-newx`
-* **Patches Version:** `3.74.0`
+* **Patches Version:** `3.75.0`
 
 * **Applied Patches (46):**
   * `NewX: Crash logs`

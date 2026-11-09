@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.11.0-dev.5"
+                "version": "3.11.0"
             }
         ],
         "applied": [
@@ -712,11 +712,11 @@
         "excluded": []
     },
     "X": {
-        "version": "12.40.1-prod.01",
+        "version": "12.41.0-prod.01",
         "bundles": [
             {
                 "repo": "crimera/piko-newx",
-                "version": "3.74.0"
+                "version": "3.75.0"
             }
         ],
         "applied": [

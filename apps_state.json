@@ -4,7 +4,7 @@
         "bundles": [
             {
                 "repo": "crimera/piko",
-                "version": "3.11.0"
+                "version": "3.11.1"
             }
         ],
         "applied": [
@@ -13,7 +13,6 @@
             "Block update screen",
             "Bring back twitter",
             "Change app icon",
-            "Change version code",
             "Clear tracking params",
             "Control video auto scroll",
             "Custom download folder",
@@ -80,7 +79,8 @@
             "Show poll results",
             "Show post source label",
             "Show sensitive media",
-            "Support external downloader"
+            "Support external downloader",
+            "Disable Play Store updates"
         ],
         "excluded": []
     },
@@ -167,7 +167,8 @@
             "Mark as read after reply",
             "Disable disappearing messages swipe",
             "Hide like buttons",
-            "Resume Reels after scrolling"
+            "Resume Reels after scrolling",
+            "Disable Play Store updates"
         ],
         "excluded": [
             "Change version code"
@@ -272,11 +273,11 @@
         ]
     },
     "YouTube": {
-        "version": "21.44.528",
+        "version": "21.45.82",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "2.1.0"
+                "version": "2.2.0"
             }
         ],
         "applied": [
@@ -348,6 +349,7 @@
             "Miniplayer",
             "Mute button",
             "Niconico comments",
+            "On-the-go player",
             "Open Shorts in regular player",
             "Open channel of live avatar",
             "Open links externally",
@@ -359,6 +361,7 @@
             "Playback buffer",
             "Playback in feeds",
             "Playback speed",
+            "Playlist improvements",
             "PoToken provider",
             "Reload video",
             "Remember live stream playback position",
@@ -387,7 +390,6 @@
             "Video delay",
             "Video quality",
             "Voice over translation",
-            "Watch later improvements",
             "Wide search bar",
             "Shorts icon style",
             "Player icon style",
@@ -398,11 +400,11 @@
         ]
     },
     "YouTube-Music": {
-        "version": "9.44.52",
+        "version": "9.45.51",
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "2.1.0"
+                "version": "2.2.0"
             }
         ],
         "applied": [
@@ -466,7 +468,7 @@
         "bundles": [
             {
                 "repo": "MorpheApp/morphe-patches",
-                "version": "2.1.0"
+                "version": "2.2.0"
             },
             {
                 "repo": "jkennethcarino/adobo",
@@ -497,6 +499,7 @@
             "Hide navigation buttons",
             "Hide related posts",
             "Hide sidebar components",
+            "High quality avatars",
             "Keep feed position",
             "Media viewer black background",
             "Media viewer fade",

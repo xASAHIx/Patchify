@@ -92,7 +92,7 @@
 * **Patch Bundles:** `crimera/piko`
 * **Patches Version:** `3.9.0-dev.9`
 
-* **Applied Patches (75):**
+* **Applied Patches (76):**
   * `Add settings`
   * `Allow user network certificate`
   * `Change like animation`
@@ -103,6 +103,7 @@
   * `Customise story ring size`
   * `Customise story timestamp`
   * `Customize navigation bar`
+  * `Disable Play Store updates`
   * `Disable Reels scrolling`
   * `Disable ads`
   * `Disable analytics`
@@ -416,9 +417,9 @@
 
 * **App Version:** `2026.42.0`
 * **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
-* **Patches Version:** `2.1.0, 2.0.0-dev.4`
+* **Patches Version:** `2.2.0, 2.0.0-dev.4`
 
-* **Applied Patches (36):**
+* **Applied Patches (37):**
   * `App icon`
   * `Colorize comment indent lines`
   * `Copy text`
@@ -442,6 +443,7 @@
   * `Hide navigation buttons`
   * `Hide related posts`
   * `Hide sidebar components`
+  * `High quality avatars`
   * `Keep feed position`
   * `Media viewer black background`
   * `Media viewer fade`
@@ -470,7 +472,7 @@
 
 * **App Version:** `12.19.1-release.0`
 * **Patch Bundles:** `crimera/piko`
-* **Patches Version:** `3.11.0`
+* **Patches Version:** `3.11.1`
 
 * **Applied Patches (73):**
   * `Add ability to copy media link`
@@ -478,7 +480,6 @@
   * `Block update screen`
   * `Bring back twitter`
   * `Change app icon`
-  * `Change version code`
   * `Clear tracking params`
   * `Control video auto scroll`
   * `Custom download folder`
@@ -498,6 +499,7 @@
   * `Customize side bar items`
   * `Customize timeline top bar`
   * `Delete from database`
+  * `Disable Play Store updates`
   * `Disable auto timeline scroll on launch`
   * `Disable chirp font`
   * `Download patch`
@@ -611,11 +613,11 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube)
 
-* **App Version:** `21.44.528`
+* **App Version:** `21.45.82`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `2.1.0`
+* **Patches Version:** `2.2.0`
 
-* **Applied Patches (112):**
+* **Applied Patches (113):**
   * `AI channel filter`
   * `Add to queue`
   * `Ambient mode`
@@ -685,6 +687,7 @@
   * `Mute button`
   * `Navigation bar`
   * `Niconico comments`
+  * `On-the-go player`
   * `Open Shorts in regular player`
   * `Open channel of live avatar`
   * `Open links externally`
@@ -697,6 +700,7 @@
   * `Playback in feeds`
   * `Playback speed`
   * `Player icon style`
+  * `Playlist improvements`
   * `PoToken provider`
   * `Reload video`
   * `Remember live stream playback position`
@@ -726,7 +730,6 @@
   * `Video delay`
   * `Video quality`
   * `Voice over translation`
-  * `Watch later improvements`
   * `Wide search bar`
 
 * **Excluded Patches (1):**
@@ -738,9 +741,9 @@
 
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=youtube-music)
 
-* **App Version:** `9.44.52`
+* **App Version:** `9.45.51`
 * **Patch Bundles:** `MorpheApp/morphe-patches`
-* **Patches Version:** `2.1.0`
+* **Patches Version:** `2.2.0`
 
 * **Applied Patches (50):**
   * `Android Auto`

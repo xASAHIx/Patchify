@@ -179,7 +179,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.4.0-dev.4"
+                "version": "4.4.0-dev.7"
             }
         ],
         "applied": [
@@ -187,6 +187,7 @@
             "App refresh rate",
             "Bypass URL redirects",
             "Bypass image region restrictions",
+            "Captions",
             "Change form factor",
             "Change player flyout menu toggles",
             "Change share sheet",
@@ -235,6 +236,7 @@
             "Playback buffer",
             "Playback in feeds",
             "Player components",
+            "Playlist improvements",
             "PoToken provider",
             "Preferred caption language",
             "Remember livestream playback position",
@@ -259,6 +261,8 @@
             "Swipe controls",
             "Theme",
             "Toolbar components",
+            "Translate live chat",
+            "Unlock queue",
             "Video playback",
             "Voice Over Translation",
             "Wide search bar",
@@ -467,12 +471,12 @@
         "version": "2026.42.0",
         "bundles": [
             {
-                "repo": "jkennethcarino/adobo",
-                "version": "2.0.0-dev.4"
-            },
-            {
                 "repo": "MorpheApp/morphe-patches",
                 "version": "2.2.0"
+            },
+            {
+                "repo": "jkennethcarino/adobo",
+                "version": "2.0.0-dev.4"
             }
         ],
         "applied": [
@@ -526,7 +530,7 @@
         "bundles": [
             {
                 "repo": "anddea/revanced-patches",
-                "version": "4.4.0-dev.4"
+                "version": "4.4.0-dev.7"
             }
         ],
         "applied": [
@@ -953,7 +957,28 @@
             "Preview chats",
             "Skip the ad data reminder",
             "Speed button on stories",
-            "Stories priority"
+            "Stories priority",
+            "Ask before a follow",
+            "Call blocker",
+            "Double tap to skip on Reels",
+            "Hide GIFs in comments",
+            "Hide Instagram Plus prompts",
+            "Hide Made with Edits",
+            "Hide lives in Reels",
+            "Hide profile banners",
+            "Hide the 2x popup on Reels",
+            "Hide the Community Standards reminder",
+            "Hold for 2x on feed videos",
+            "Jump a profile's posts to a date",
+            "Keep photo locations from Instagram",
+            "Keep story buttons below the story",
+            "Keep the tab bar on a reel's profile",
+            "Open reel links on that reel",
+            "Save in the post menu",
+            "Search comments",
+            "Split the notes row",
+            "Swipe through a chat's photos and posts",
+            "Watch again in the feed"
         ],
         "excluded": []
     }

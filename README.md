@@ -183,16 +183,18 @@
 * **Patch Bundles:** `SysAdminDoc/HushGram`
 * **Patches Version:** `0.0.9`
 
-* **Applied Patches (155):**
+* **Applied Patches (176):**
   * `Accent color`
   * `Allow screenshots`
   * `Ambient light`
   * `App-only proxy`
   * `Ask before a call`
+  * `Ask before a follow`
   * `Ask before a like`
   * `Ask before a refresh`
   * `Back leaves Home`
   * `Blur the bars around Reels`
+  * `Call blocker`
   * `Carousel arrows`
   * `Change the like animation`
   * `Chat history tools`
@@ -208,6 +210,7 @@
   * `Don't report screenshots`
   * `Don't save recent searches`
   * `Don't send reel watch history`
+  * `Double tap to skip on Reels`
   * `Download any reel`
   * `Download any story`
   * `Download any video`
@@ -224,7 +227,10 @@
   * `Hide AI-labeled reels`
   * `Hide Follow on feed posts`
   * `Hide Follow on stories`
+  * `Hide GIFs in comments`
+  * `Hide Instagram Plus prompts`
   * `Hide Instants`
+  * `Hide Made with Edits`
   * `Hide Meta AI`
   * `Hide Notes on profile pictures`
   * `Hide Reels in the feed`
@@ -234,7 +240,9 @@
   * `Hide comments`
   * `Hide group buttons on the share sheet`
   * `Hide highlights`
+  * `Hide lives in Reels`
   * `Hide paid partnership Reels`
+  * `Hide profile banners`
   * `Hide profile tabs`
   * `Hide reels by caption words`
   * `Hide reels with few views`
@@ -245,6 +253,8 @@
   * `Hide suggested posts`
   * `Hide suggested stories`
   * `Hide that you're typing`
+  * `Hide the 2x popup on Reels`
+  * `Hide the Community Standards reminder`
   * `Hide the Explore grid`
   * `Hide the Reels tab`
   * `Hide the Repost button`
@@ -257,18 +267,23 @@
   * `Hide the reply box on stories`
   * `Hide the search bar in Messages`
   * `Hide your active status`
+  * `Hold for 2x on feed videos`
   * `Home header text`
   * `HushGram launch screen`
   * `HushGram settings`
   * `Install next to Instagram`
+  * `Jump a profile's posts to a date`
   * `Keep Home's top bar`
   * `Keep Reels auto scroll on`
   * `Keep a seek bar on Reels`
   * `Keep in chat`
+  * `Keep photo locations from Instagram`
   * `Keep playing in the background`
   * `Keep stories playing while zooming`
+  * `Keep story buttons below the story`
   * `Keep the Reels top bar`
   * `Keep the reel speed`
+  * `Keep the tab bar on a reel's profile`
   * `Keep your place in Home`
   * `Lock your messages`
   * `Long press to zoom`
@@ -278,6 +293,7 @@
   * `Open comments without the keyboard`
   * `Open developer options`
   * `Open links in external browser`
+  * `Open reel links on that reel`
   * `Phone layout on big screens`
   * `Pick the app icon`
   * `Pinch to zoom on Reels`
@@ -293,8 +309,10 @@
   * `Rounded post corners`
   * `Sanitize sharing links`
   * `Save comment photo`
+  * `Save in the post menu`
   * `Save profile picture`
   * `Saved on your profile`
+  * `Search comments`
   * `See who a story mentions`
   * `Seek bar on feed videos`
   * `Seek bar on stories`
@@ -310,6 +328,7 @@
   * `Skip the contacts and location popups`
   * `Smooth story opening`
   * `Speed button on stories`
+  * `Split the notes row`
   * `Spoof location`
   * `Start Home on Following`
   * `Start feed videos with sound`
@@ -327,6 +346,7 @@
   * `Story ring size`
   * `Story text fonts`
   * `Swipe left to open the profile`
+  * `Swipe through a chat's photos and posts`
   * `Swipe through a chat's reels`
   * `Tab bar layout`
   * `Tap a feed video to pause it`
@@ -339,6 +359,7 @@
   * `View DM photos and videos anonymously`
   * `View live anonymously`
   * `View stories anonymously`
+  * `Watch again in the feed`
 </details>
 
 <details>
@@ -416,8 +437,8 @@
 [![Download](https://img.shields.io/badge/Download-blue?style=for-the-badge&logo=github)](https://github.com/xASAHIx/Patchify/releases?q=reddit)
 
 * **App Version:** `2026.42.0`
-* **Patch Bundles:** `jkennethcarino/adobo, MorpheApp/morphe-patches`
-* **Patches Version:** `2.0.0-dev.4, 2.2.0`
+* **Patch Bundles:** `MorpheApp/morphe-patches, jkennethcarino/adobo`
+* **Patches Version:** `2.2.0, 2.0.0-dev.4`
 
 * **Applied Patches (37):**
   * `App icon`
@@ -808,7 +829,7 @@
 
 * **App Version:** `9.40.51`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.4.0-dev.4`
+* **Patches Version:** `4.4.0-dev.7`
 
 * **Applied Patches (43):**
   * `App refresh rate`
@@ -867,13 +888,14 @@
 
 * **App Version:** `21.39.525`
 * **Patch Bundles:** `anddea/revanced-patches`
-* **Patches Version:** `4.4.0-dev.4`
+* **Patches Version:** `4.4.0-dev.7`
 
-* **Applied Patches (83):**
+* **Applied Patches (87):**
   * `Ambient mode control`
   * `App refresh rate`
   * `Bypass URL redirects`
   * `Bypass image region restrictions`
+  * `Captions`
   * `Change form factor`
   * `Change player flyout menu toggles`
   * `Change share sheet`
@@ -923,6 +945,7 @@
   * `Playback buffer`
   * `Playback in feeds`
   * `Player components`
+  * `Playlist improvements`
   * `PoToken provider`
   * `Preferred caption language`
   * `Reload video`
@@ -949,6 +972,8 @@
   * `Swipe controls`
   * `Theme`
   * `Toolbar components`
+  * `Translate live chat`
+  * `Unlock queue`
   * `Video playback`
   * `Visual preferences icons for YouTube`
   * `Voice Over Translation`

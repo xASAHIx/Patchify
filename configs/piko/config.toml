@@ -1,18 +1,14 @@
 [X]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
+changelog-keywords = ["Twitter"]
 
 [X.patches]
-"github:crimera/piko" = ["Browse tweet object", "Dynamic color"]
-
-[Twitter]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-
-[Twitter.patches]
-"github:crimera/piko" = ["Bring back twitter", "Browse tweet object", "Dynamic color"]
+"github:crimera/piko" = { version = "dev" }
 
 [Instagram]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/instagram/instagram-instagram"
-patcher-args = "-e 'Theme' -Oamoled=true"
+changelog-keywords = ["Instagram"]
+patcher-args = "-e 'Clone' -OpackageName='com.instagram' -OappName='Instagram'"
 
 [Instagram.patches]
-"github:crimera/piko" = []
+"github:crimera/piko" = { version = "dev", exclude = ["Disable Play Store updates"] }

@@ -1,0 +1,17 @@
+[YouTube-ReVanced-Extended]
+enabled = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+version = "exp"
+patcher-args = "-e 'Custom Shorts action buttons' -OiconType='round' -e 'Overlay buttons' -ObottomMargin='0.1dip' -e 'Settings for YouTube' -OrvxSettingsLabel='Settings' -e 'Visual preferences icons for YouTube' -OsettingsMenuIcon='rvx_letters_bold' -OiconStyle='youtube'"
+
+[YouTube-ReVanced-Extended.patches]
+"github:lavinhoque33/revanced-patches" = { version = "latest", exclude = ["Enable debug logging", "Translations for YouTube"] }
+
+[YouTube-Music-ReVanced-Extended]
+enabled = true
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
+version = "exp"
+patcher-args = "-e 'Settings for YouTube Music' -OrvxSettingsLabel='Settings' -e 'Visual preferences icons for YouTube Music' -OsettingsMenuIcon='rvx_letters_bold' -OiconStyle='bold_stock'"
+
+[YouTube-Music-ReVanced-Extended.patches]
+"github:lavinhoque33/revanced-patches" = { version = "latest", include = ["Disable music video in album"], exclude = ["Enable debug logging", "Translations for YouTube Music"] }
